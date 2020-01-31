@@ -1,4 +1,4 @@
-const baseURL = "https://thwyr-backend.herokuapp.com";
+const baseURL = "https://thwyr-backend.herokuapp.com/api/heroku_k04slfgv";
 
 export default {
   // get all questions
