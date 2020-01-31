@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:3000/api";
+const baseURL = "https://thwyr-backend.herokuapp.com";
 
 export default {
   // get all questions
